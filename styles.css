@@ -1,0 +1,19 @@
+body {
+    margin: 36px 0px;
+    padding: 90px 0px 66px;
+    background: burlywood;
+}
+.gridster {
+    width: 960px;
+    margin: 0px auto;
+}
+ul {
+    height: 480px;
+    width: 960px;
+    position: relative;
+}
+    ul li {
+    background: #FFF;
+    cursor: pointer;
+    list-style: none;
+    }
